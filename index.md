@@ -5,9 +5,9 @@ redirect_from:
 ---
 
 # {{ site.title }}
-**An Assistive Robot**
+**Automated 3D Printing**
 <br />
-UC Berkeley EE106A
+UC Berkeley ME102B
 <br />
-Fall 2017
+Spring 2018
 
