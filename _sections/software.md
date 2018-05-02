@@ -19,7 +19,6 @@ First you will need to enter the automated_3dprinting folder on the pi. You will
 ```shell
 cd automated_3dprinter
 vim print_que.txt
-...
 ```
 
 ## Starting Prints
@@ -27,6 +26,5 @@ Now you just need to run the main.py file which will start the prints!
 We run sudo because there are keyboard interrupt function which you can take advantage of if you want to remove prints early.
 ```shell
 sudo python main.py
-...
 ```
 Now you've fully automated your 3D Printing system!
