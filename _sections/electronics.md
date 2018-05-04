@@ -8,6 +8,7 @@ latex: yes
 
 We chose to use two separate Arduinos to control the gripper and winch, due to the large distance between the two and their motion relative to each other. Having the Arduinos close to the motors they control minimizes voltage drop and the total amount of wiring.
 
+![shelf]({{ "/assets/electronic.jpg" | absolute_url }})
 ## Gripper Electronics
 
 The bed gripper is actuated by two Futaba 3003 servos controlled by an Arduino Nano. The Arduino receives commands from the Raspberry Pi (clamping, flexing, releasing) and sends PWM signals to the servos. Power and USB cables for the gripper electronics are routed through a cable carrier ("energy chain") to avoid tangling as the gripper moves up and down.
