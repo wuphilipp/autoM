@@ -1,14 +1,15 @@
 ---
 title: Software
-order: 8
+order: 9
 latex: yes
 ---
 
-## This is how you run your our project!
+## This is how you run our project!
 ## Software Implmentation
 
-We used a Rasberry pi3 to control our system.
+We used a Rasberry Pi 3 to control our system.
 In addition we have 4 Monoprice Mini printers which connect to our system.
+Lastly two arduinos control the actuators of our system, which the Rasberry Pi also interfaces to.
 
 ## Setting up the printers
 First load the gcode files you wish to print on all the 3D printers.
