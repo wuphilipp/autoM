@@ -6,7 +6,7 @@ order: 11
 <style scoped>
 .person {
     float: left;
-    padding: 0 1em;
+    padding: 0 1%;
     width: 48%;
 }
 </style>
