@@ -3,6 +3,7 @@ title: Introduction
 order: 1
 ---
 Our goal for this project was to automate modern 3d printing
-
-![removing_gif](https://i.imgur.com/McceJqY.gifv)
-
+<video preload="auto" autoplay="autoplay" loop="loop" style="width: 200px; height: 200px;">
+    <source src="https://i.imgur.com/McceJqY.gifv" type="video/webm"></source>
+</video>
+    
