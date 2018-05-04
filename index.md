@@ -11,11 +11,11 @@ UC Berkeley ME102B
 <br />
 Spring 2018
 <br />
-Menglong Guo
+*Menglong Guo*
 <br />
-Allan Zhao
+*Allan Zhao*
 <br />
-Philipp Wu
+*Philipp Wu*
 <br />
-Peter Cuellar
+*Peter Cuellar*
 <br />

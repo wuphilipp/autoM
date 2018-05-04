@@ -4,4 +4,4 @@ order: 3
 latex: yes
 ---
 
-![shelf]({{ "/assets/overiview.jpg" | absolute_url }})
+![overview]({{ "/assets/overview.jpg" | absolute_url }})
