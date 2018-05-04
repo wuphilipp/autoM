@@ -12,7 +12,10 @@ UC Berkeley ME102B
 Spring 2018
 <br />
 Menglong Guo
+<br />
 Allan Zhao
+<br />
 Philipp Wu
+<br />
 Peter Cuellar
 <br />
